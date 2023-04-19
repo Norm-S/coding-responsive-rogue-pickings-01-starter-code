@@ -128,8 +128,8 @@ header nav ul li a {
 
 .section-two {
   /* width: 42%;*/
-  border-left: 5px solid #eee;
-  border-right: 5px solid #eee;
+  border-top: 5px solid #eee;
+  border-bottom: 5px solid #eee;
 }
 
 .section-three {
