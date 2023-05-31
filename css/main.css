@@ -166,3 +166,9 @@ footer span {
   color: #45610e;
   font-size: 0.875rem;
 }
+
+@media all and (min-width: 768px) {
+}
+
+@media all and (mind-width: 1200px) {
+}
